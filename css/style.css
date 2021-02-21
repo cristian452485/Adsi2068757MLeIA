@@ -1,0 +1,46 @@
+.border{
+  background-color: #E6ECF1 ;
+ border-radius:22px;
+  border: 4px solid #0C14EC;
+
+}
+.BorderImage{
+
+  border: 8px solid blue;
+
+}
+.BorderFooter{
+ 
+  border: 2px solid blue;
+background-color: #E6ECF1
+}
+.BordeDerechoInfo{
+
+  border-right: 2px solid black;
+}
+.BordeIzquierdoInfo{
+
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+
+}
+.BordeDerechoMenu{
+
+border-right: 4px solid #0C14EC ;
+
+}
+.novedades_size {
+	 text-align: center;
+   font-size: 40px;
+}
+.novedades_sizeIA {
+  font-size: 30px;
+}
+.cursor{
+cursor: pointer;
+
+}
+
+
+    
